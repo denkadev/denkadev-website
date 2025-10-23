@@ -1,5 +1,5 @@
 <template>
   <div>
-    <el-button>Denka</el-button>
+    <nuxt-page></nuxt-page>
   </div>
 </template>
